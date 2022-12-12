@@ -1,0 +1,18 @@
+Lose. Ian quit of their own accord.
+Player Name: Ian
+Computer Maintenance Level: 100
+Number of Viruses in Computer: 0
+Computer Parts:
+Number of CPUs: 1
+Number of GPUs: 0
+Number of Power Supply Units: 0
+Number of Computer Cases: 0
+Number of Internet Cards: 0
+Number of Keyboards and Mice: 0
+Number of Antivirus USB Sticks: 0
+VPNs Available: 2
+Internet Provider Level: 3
+Dogecoin Available: 95
+Frustration Level: 16
+Carmen’s Progress: 0
+Number of Hackers Defeated: 1
